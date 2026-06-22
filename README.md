@@ -104,7 +104,7 @@ Potem uruchom aplikację normalnie.
 
 - Kod aplikacji — własność dostawcy usługi **Polski-VPN.pl**.
 - **OpenVPN** — GPLv2 (oficjalny, uruchamiany jako osobny proces).
-- Biblioteki bundlowane razem z openvpn: **OpenSSL** (Apache 2.0), **LZO** (GPLv2), **LZ4** (BSD-2), **pkcs11-helper** (GPLv2/BSD).
+- Biblioteki: **OpenSSL** (Apache 2.0), **LZO** (GPLv2), **LZ4** (BSD-2), **pkcs11-helper** (GPLv2/BSD).
 
 ---
 
