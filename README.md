@@ -94,7 +94,7 @@ Potem uruchom aplikację normalnie.
 | Element | Wymaganie |
 |---|---|
 | System | macOS 13 (Ventura) lub nowszy |
-| Architektura | **Apple Silicon (arm64)** - M1, M2, M3… *(wersja dla Maków Intel - planowana)* |
+| Architektura | **Apple Silicon (arm64)** - M1, M2, M3, M4, M5… *(wersja dla Maków Intel - planowana)* |
 | Uprawnienia | Jednorazowo hasło administratora (instalacja usługi pomocniczej) |
 | Sieć | Dostęp do internetu + aktywne konto na [polski-vpn.pl](https://polski-vpn.pl/) |
 
