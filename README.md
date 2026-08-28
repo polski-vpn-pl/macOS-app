@@ -16,6 +16,12 @@
 </div>
 
 ---
+<div style="display: flex; gap: 10px;">
+  <img src="mac-home.png" style="width: 25%;">
+  <img src="mac-servers.png" style="width: 25%;">
+  <img src="mac-settings-1.png" style="width: 25%;">
+  <img src="mac-settings-2.png" style="width: 25%;">
+</div>
 
 ## ✨ W skrócie
 
