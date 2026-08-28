@@ -19,7 +19,7 @@
 
 ## ✨ W skrócie
 
-**Polski VPN dla macOS** to desktopowy klient VPN dla Maków z procesorem **Apple Silicon (M1 i nowsze)**. Łączy się z serwerami usługi <a href="https://polski-vpn.pl/">*Polski-VPN.pl*</a> przez protokół **OpenVPN**. Interfejs jest po polsku i minimalistyczny - wybierz serwer, wpisz dane dostępowe otrzymane po zakupie usługi i połącz się. Aplikacja chowa się do paska menu (menu bar) i może uruchamiać się przy starcie systemu.
+**Polski VPN dla macOS** to desktopowy klient VPN dla Maków z procesorem **Apple Silicon (M1 i nowsze)**. Łączy się z serwerami usługi <a href="https://polski-vpn.pl/">Polski-VPN.pl</a> przez protokół **OpenVPN**. Interfejs jest po polsku i minimalistyczny - wybierz serwer, wpisz dane dostępowe otrzymane po zakupie usługi i połącz się. Aplikacja chowa się do paska menu (menu bar) i może uruchamiać się przy starcie systemu.
 
 ---
 
