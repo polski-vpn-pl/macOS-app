@@ -5,9 +5,8 @@
 **Prosty, szybki klient VPN dla macOS (Apple Silicon) — protokół OpenVPN, pełny tunel, zero konfiguracji.**
 
 ![Platform](https://img.shields.io/badge/platform-macOS%2013%2B%20(Apple%20Silicon)-000000?logo=apple&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-3.44-02569B?logo=flutter&logoColor=white)
 ![Protocol](https://img.shields.io/badge/VPN-OpenVPN-blue)
-![Version](https://img.shields.io/badge/version-2.0.3-success)
+![Version](https://img.shields.io/badge/version-2.2.0-success)
 
 <a href="../../releases/latest">
   <img alt="Pobierz .dmg"
