@@ -6,7 +6,7 @@
 
 ![Platform](https://img.shields.io/badge/platform-macOS%2013%2B%20(Apple%20Silicon)-000000?logo=apple&logoColor=white)
 ![Protocol](https://img.shields.io/badge/VPN-OpenVPN-blue)
-![Version](https://img.shields.io/badge/version-2.2.0-success)
+![Version](https://img.shields.io/badge/version-2.2.1-success)
 
 <a href="../../releases/latest">
   <img alt="Pobierz .dmg"
