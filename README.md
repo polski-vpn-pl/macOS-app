@@ -5,8 +5,8 @@
 **Prosty, szybki klient VPN dla macOS (Apple Silicon) — protokół OpenVPN, pełny tunel, zero konfiguracji.**
 
 ![Platform](https://img.shields.io/badge/platform-macOS%2013%2B%20(Apple%20Silicon)-000000?logo=apple&logoColor=white)
-![Protocol](https://img.shields.io/badge/VPN-OpenVPN-blue)
-![Version](https://img.shields.io/badge/version-2.2.1-success)
+![Protocols](https://img.shields.io/badge/VPN-OpenVPN%20%2B%20SoftEther%20%2B%20SSTP-blue)
+![Version](https://img.shields.io/badge/version-2.3.8-success)
 
 <a href="../../releases/latest">
   <img alt="Pobierz .dmg"
@@ -53,11 +53,11 @@
 
 ## 🔌 Protokoły - co dokładnie działa na macOS
 
-| Protokół | Status na macOS | Dlaczego |
-|---|:---:|---|
-| **OpenVPN** | ✅ działa | Wspierany |
-| **SoftEther** | ⛔ niedostępny | brak natywnego wsparcia |
-| **SSTP** | ⛔ niedostępny | brak natywnego wsparcia |
+| Protokół | Status na macOS |
+|---|:---:|
+| **OpenVPN** | ✅ Działa |
+| **SoftEther** | ✅ Działa |
+| **SSTP** | ✅ Działa |
 
 ---
 
